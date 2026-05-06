@@ -3,6 +3,8 @@ A full-stack application that allows users to create hierarchical question forms
 
 # Working
 
+<img width="1367" height="628" alt="Screenshot 2026-05-06 203059" src="https://github.com/user-attachments/assets/a80652d2-046d-45a9-b130-2cdfecf0160e" />
+<img width="1061" height="570" alt="Screenshot 2026-05-06 203118" src="https://github.com/user-attachments/assets/5e58b0d9-5a1b-4eaf-ad46-7cbd6f38e019" />
 
 https://github.com/user-attachments/assets/e1bd17b2-5f72-4f89-bd43-db1fb185e2b3
 
@@ -29,21 +31,24 @@ Utilities: @hello-pangea/dnd, Body-Parser.
 
 ## Installation and Setup
 ### 1. Clone the Repository
-Bash
+```Bash
 git clone <your-repo-link>
 cd <your-repo-folder>
+```
 ### 2. Backend Setup
-Bash
+```Bash
 cd server
 npm install
 node index.js
+```
 The server will run on http://localhost:5000.
 
 ### 3. Frontend Setup
-Bash
+```Bash
 cd client
 npm install
 npm run dev
+```
 The app will run on http://localhost:5173 (or the port shown in your terminal).
 
 ## How to Use
