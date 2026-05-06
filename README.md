@@ -55,3 +55,8 @@ Click "Submit Form" to view the hierarchical summary and send data to the backen
 GitHub Repository: Contains both /client and /server projects.
 
 JSON Structure: The backend logs a recursive JSON tree representing the form hierarchy.
+
+# Author
+Saurav Singh
+
+National Institute of Technology Delhi
